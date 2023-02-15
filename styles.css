@@ -2,3 +2,12 @@ table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
 }
+td {
+  text-align: center;
+}
+th{
+	background:aqua;
+}
+.one{
+	background:hsla(89, 43%, 51%, 0.3);
+}
